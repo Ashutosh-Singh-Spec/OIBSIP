@@ -1,10 +1,6 @@
-
-Here's a concise README file content for your "Guess the Number" game implemented in Java with Swing:
-
-Guess the Number Game
+Guess the Number Game -
 Guess the Number is a simple and fun Java-based game where the user attempts to guess a randomly generated number within a given range. The game features a graphical user interface (GUI) built using Java Swing.
-
-Features
+Features -
 -Random Number Generation: The system generates a random number between 1 and 100.
 -Limited Attempts: Players have 5 attempts to guess the correct number in each round.
 -Multiple Rounds: The game consists of 3 rounds.
